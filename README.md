@@ -18,5 +18,5 @@ Hi! I'm [Your Name], a Computer Science student learning to become a Cloud Datab
 *Coming soon! I'll add my projects here as I build them.*
 
 ## Contact Me
-- Email: russeljohnicomedez@gmail.com
-- GitHub: Russel-John3213
+- Email: [russeljohnicomedez@gmail.com]
+- GitHub: [Russel-John3213]
